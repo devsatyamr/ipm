@@ -1,0 +1,4 @@
+id,name,description,price,seller,location,category,image,rating,stock
+1,Fresh Apples,"Premium quality fresh apples",99,FreshMart,Mumbai,Fruits,https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6,4.5,100
+2,Organic Bananas,"Organic bananas from Kerala",45,OrganicStore,Kerala,Fruits,https://images.unsplash.com/photo-1603833665858-e61d17a86224,4.3,150
+3,Whole Wheat Bread,"Freshly baked whole wheat bread",35,LocalBakery,Delhi,Bakery,https://images.unsplash.com/photo-1509440159596-0249088772ff,4.7,50
